@@ -4,3 +4,5 @@
 4. Atualize seu repositório local a partir do Remoto.
 5. Utilize o comando git remote -v no terminal.
 6. Confira as mudanças nos arquivos.
+
+Testandoo
